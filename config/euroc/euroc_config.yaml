@@ -1,0 +1,7 @@
+%YAML:1.0
+
+#common parameters
+imu_topic: "/imu_raw"
+image_topic: "/simulator/camera"
+output_path: "/home/jeff/vio/ros_vins/src/VINS_Mono/output"
+
